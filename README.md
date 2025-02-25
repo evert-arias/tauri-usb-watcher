@@ -30,7 +30,8 @@ npm install
 
 # Run the development version
 npm run tauri dev
+```
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
