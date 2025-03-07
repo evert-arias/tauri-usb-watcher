@@ -1,4 +1,4 @@
-# UsbWatcher
+# USB Watcher Demo
 
 A demonstration application built with Tauri 2.0 that leverages Rust's `rusb` crate to monitor USB device events across macOS and Windows platforms.
 
